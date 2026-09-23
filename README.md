@@ -1,6 +1,6 @@
 # Python 排序演算法測試程式
 
-對話連結：https://chatgpt.com/share/6ab38b7e-ad78-83ee-92ce-497f825f324a
+AI對話連結：https://chatgpt.com/share/6ab38b7e-ad78-83ee-92ce-497f825f324a
 
 ## 一、程式功能
 
